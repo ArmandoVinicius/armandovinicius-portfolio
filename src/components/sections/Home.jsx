@@ -6,9 +6,9 @@ export const Home = () => {
     >
       <div className="text-center z-10 px-4">
         {/* Adicionar lib de letras aleatórias + texto na esquerda foto na direita*/}
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-linear-to-r from-blue-500 bg-clip-text to-cyan-400 text-transparent">
-          Olá, eu me chamo <br />
-          Armando Vinicius
+        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-linear-to-r from-blue-500 bg-clip-text to-cyan-400 ">
+          Olá, me chamo <br />
+          <span className="text-transparent">Armando Vinicius</span>
         </h1>
 
         <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">

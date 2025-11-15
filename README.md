@@ -1,5 +1,14 @@
 # Esse é o meu portfolio
 
+- [ ] Finalizar seção de projetos
+- [ ] Finalizar seção de contato
+- [ ] Implementar lib de email
+- [ ] Deploy
+- [ ] Implementar o i18n
+- [ ] Implementar o modo claro/escuro
+- [ ] Fazer seção para prêmios? (ICPC Brazil Finalist)
+- [ ] Fazer uma seção para o blog?
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
