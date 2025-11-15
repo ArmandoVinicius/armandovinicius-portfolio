@@ -1,9 +1,10 @@
 # Esse é o meu portfolio
 
 - [x] Finalizar seção de projetos
-- [ ] Finalizar seção de contato
+- [x] Finalizar seção de contato
 - [ ] Implementar lib de email
 - [ ] Deploy
+- [ ] Implementar smooth scroll?
 - [ ] Implementar o i18n
 - [ ] Implementar o modo claro/escuro
 - [ ] Fazer seção para prêmios? (ICPC Brazil Finalist)
