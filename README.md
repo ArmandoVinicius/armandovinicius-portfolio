@@ -4,7 +4,7 @@
 - [x] Finalizar seção de contato
 - [X] Implementar lib de email
 - [X] Deploy
-- [ ] Implementar smooth scroll?
+- [X] Implementar smooth scroll
 - [ ] Implementar o i18n
 - [ ] Implementar o modo claro/escuro
 - [ ] Fazer seção para prêmios? (ICPC Brazil Finalist)
