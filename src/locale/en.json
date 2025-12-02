@@ -1,0 +1,32 @@
+{
+    "translation": {
+        "navHome": "Home",
+        "navAbout": "About",
+        "navProjects": "Projects",
+        "navContact": "Contact",
+        "helloMessage": "Hi, I am",
+        "introduction": "",
+        "btnProjects": "",
+        "btnContact": "",
+        "titleAbout": "",
+        "textAbout": "",
+        "titleEducation": "",
+        "textEducationOne": "",
+        "textEducationTwo": "",
+        "titleWorkExp": "",
+        "textWorkExpOne": "",
+        "titleProjects": "",
+        "titleProjectOne": "",
+        "descProjectOne": "",
+        "linkProject": "",
+        "titleProjectTwo": "",
+        "descProjectTwo": "",
+        "titleProjectThree": "",
+        "descProjectThree": "",
+        "titleContact": "",
+        "placeholderName": "",
+        "placeholderEmail": "",
+        "placeholderTextarea": "",
+        "btnSendMessage": ""
+    }
+}
