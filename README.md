@@ -5,7 +5,7 @@
 - [X] Implementar lib de email
 - [X] Deploy
 - [X] Implementar smooth scroll
-- [ ] Implementar o i18n
+- [X] Implementar o i18n
 - [ ] Implementar o modo claro/escuro
 - [ ] Fazer seção para prêmios? (ICPC Brazil Finalist)
 - [ ] Fazer uma seção para o blog?

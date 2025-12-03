@@ -31,6 +31,8 @@
         "placeholderName": "Nome...",
         "placeholderEmail": "exemplo@email.com",
         "placeholderTextarea": "Sua mensagem...",
-        "btnSendMessage": "Enviar Mensagem"
+        "btnSendMessage": "Enviar Mensagem",
+        "alertMessage": "Mensagem enviada com sucesso!",
+        "alertErrorMessage": "Erro no envio..."
     }
 }
